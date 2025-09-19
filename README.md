@@ -106,7 +106,7 @@ git clone https://github.com/Sanober494/WIExSWE-Workshop-Documentation.git
 #Install dependencies if needed
 
 # Run the notebook
-jupyter notebook WIE_x_SWE_Breast_Cancer_Prediction_Workshop_Documentation.ipynb
+jupyter notebook Code.ipynb
 
 # Happy Learning Sugars :)
 ```
