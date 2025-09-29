@@ -1,0 +1,1 @@
+The purpose of assets folder is usually to keep the non-code related files like images, fonts, CSS, JavaScript, sounds, videos, and configuration files. In short, the static files.
