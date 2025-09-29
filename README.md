@@ -89,9 +89,10 @@ For Beginners:
  ### Use Google Collab ✨
 1. Download this repository in your local machine
 2. This includes the .ipynb and the csv data file.
-3. Upload the .ipynb in Google Collab, along with the csv data file.
+3. Upload the Code.ipynb in Google Collab, along with the csv data file.
 4. Click Run cell-by-cell in order to understand whats happening.
 5. Happy Learning Cupcakes!
+
 
 For Users with VS code/ Editors and pre installed necessary libraries:
  ### Clone this Repo ✨
@@ -111,7 +112,7 @@ jupyter notebook Code.ipynb
 # Happy Learning Sugars :)
 ```
 ---
-
+#### Please note there are two notebooks in this repo, the Code.ipynb contains 6 ML algorithms with detailed explanations for you to practice, and the Workshop_ipynb is the notebook that was used for the workshop.
 
 ## Conclusion and Impact
 
